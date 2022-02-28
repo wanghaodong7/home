@@ -1,0 +1,134 @@
+.container{
+	position:relative;
+	text-align:center;
+	color:white;
+}
+.centered{
+	position: absolute;
+	top: 30%;
+	left:32%
+}
+#titlefont{
+	font-size:100px;
+}
+#title_os{
+	width:100%;
+}
+div.trim{
+	max-height:600px;
+    max-width:3000px;
+    overflow: hidden;
+}
+
+#Brunnlitz{
+	width:1100px;
+	margin-left:370px;
+}
+p,h1,h2,h3,h4,#Media_Coverage,#See_Also,#Works_Cited,.c{
+	text-align:center;
+}
+#Early_Life{
+	margin-left:900px;
+}
+#World_War_II{
+	margin-left:880px;
+}
+/* Class c and class e center headers. There are two seperate headers as class e is for non image float altered headers, and class c is for headers altered by image float. */
+.c{
+	margin-right:300px;
+}
+.e{
+	text-align:center;
+}
+p,h1,h2,h3,h4{
+	text-align:justify; 	
+}
+#pemper{
+	width:330px;
+	float:left;
+}
+#after{
+	margin-left:880px;
+}
+#plaszow{
+	width:1100px;
+	margin-left:360px;
+}
+#titlefont,body{
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+}
+#simg{
+	width:330px;
+	margin-top:300px;
+	float:left;
+}
+/*The images Schindler's ark and Schindler's list required different margins in order to make it look centered.*/
+#ark{
+	height:600px;
+	margin-left:380px;
+}
+#list{
+	height:600px;
+	margin-left:260px;
+}
+#container{
+    width: 1100px;
+}
+#floated{
+    float: left;
+    width: 300px;
+}
+#guide{
+	border-style:solid; 
+	width:100%;
+	height:100px;
+}
+#move{
+	margin-top:150px;
+}
+#content{
+	font-family: noto-sans, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+}
+#content{
+	margin-left:20px;
+}
+#Emalia{
+	width:1100px;
+	margin-left:360px;
+	float:left;
+}
+#Emalia2{
+	margin-top:870px;
+}
+#container2{
+	width:1100px;	
+}
+#floated2{
+	float: left;
+	width:350px;
+}
+#validator{
+width:250px;
+}
+#Plaszow{
+	margin-top:70px;
+}
+#container3{
+	width:1100px;
+}
+#floated3{
+	float:left;
+	width:450px;
+}
+ol,ul{
+	display:table;
+	margin:auto;
+}
+p{
+	margin-left:350px;
+	margin-right:400px;
+}
